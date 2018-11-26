@@ -1,10 +1,8 @@
 <?php
 /**
  * Plugin Name: DrugStoc Commissions  
- * Plugin URI: http://integrahealth.com.ng/integraitlabs.php
- * Description: Display and manage DrugStoc Commissions per order / item.
  * Version: 1.0.0
- * Author: Caleb Chinga | Drugstoc
+ * Author: Sodimu Segun & Caleb Chinga 
  * Author URI: http://integrahealth.com.ng
  * Text Domain: cpac
  * Domain Path: /languages
